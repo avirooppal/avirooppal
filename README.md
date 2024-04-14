@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @avirooppal
-- 👀 I’m interested in machine learning 
-- 🌱 I’m currently learning Flask and numPY
+- 👀 I’m interested in Machine learning and Deep Space 
+- 🌱 I’m currently learning a bit of everything 
 
 
 <!---
